@@ -1,6 +1,8 @@
 # Festa de Final de Ano
 
-Projeto do aplicativo Festa de Final de Ano para matéria de Desenvolvimento de Sistemas Móveis.
+Projeto do aplicativo Festa de Final de Ano.
+
+Matéria de Desenvolvimento de Sistemas Móveis.
 
 Gabriel Valente Perinetti
 RA: 52131-0
