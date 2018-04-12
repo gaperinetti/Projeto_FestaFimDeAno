@@ -7,4 +7,4 @@ RA: 52131-0
 Sistemas de Informação
 
 
-[![](https://github.com/gaperinetti/Projeto_FestaFimDeAno/blob/master/apptela.png)](https://github.com/gaperinetti/Projeto_FestaFimDeAno/blob/master/apptela.png)
+[![](https://github.com/gaperinetti/Projeto_FestaFimDeAno/blob/master/app.png)](https://github.com/gaperinetti/Projeto_FestaFimDeAno/blob/master/app.png)
